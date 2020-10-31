@@ -1,4 +1,5 @@
-.import
+/.import/
+/build/
 *.translation
 export_presets.cfg
 .mono
