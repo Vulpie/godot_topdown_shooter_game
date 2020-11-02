@@ -66,7 +66,7 @@ position = Vector2( 335.078, 1052.27 )
 
 [node name="BGC" type="Sprite" parent="."]
 modulate = Color( 0.564706, 0.560784, 0.654902, 1 )
-position = Vector2( 2025.95, 1310.32 )
+position = Vector2( 2071.95, 1359.32 )
 z_index = -1
 texture = ExtResource( 2 )
 
