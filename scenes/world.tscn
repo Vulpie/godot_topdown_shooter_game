@@ -11,13 +11,13 @@
 position = Vector2( 19.3494, 19.3494 )
 
 [node name="Enemy" parent="." instance=ExtResource( 3 )]
-position = Vector2( 219.397, 224.985 )
+position = Vector2( 364.754, 64.5264 )
 
 [node name="Enemy2" parent="." instance=ExtResource( 3 )]
-position = Vector2( 449.802, 219.099 )
+position = Vector2( 468.679, 88.8443 )
 
 [node name="Enemy3" parent="." instance=ExtResource( 3 )]
-position = Vector2( 346.98, 400.131 )
+position = Vector2( 99.685, 371.815 )
 
 [node name="Enemy4" parent="." instance=ExtResource( 3 )]
 position = Vector2( 29.3235, 473.091 )
@@ -65,7 +65,7 @@ position = Vector2( 70.7932, 1052.27 )
 position = Vector2( 335.078, 1052.27 )
 
 [node name="BGC" type="Sprite" parent="."]
-modulate = Color( 0.564706, 0.560784, 0.654902, 1 )
+modulate = Color( 0.0901961, 0.0901961, 0.0980392, 1 )
 position = Vector2( 2071.95, 1359.32 )
 z_index = -1
 texture = ExtResource( 2 )

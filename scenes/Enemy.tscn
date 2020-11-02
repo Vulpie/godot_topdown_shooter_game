@@ -9,7 +9,7 @@ height = 1.34127
 
 [sub_resource type="CapsuleShape2D" id=2]
 radius = 8.92289
-height = 0.0
+height = 2.55091
 
 [node name="Enemy" type="KinematicBody2D"]
 script = ExtResource( 2 )
